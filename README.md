@@ -1,5 +1,6 @@
 # CaesarDecoder
 P1-Seguridad en Redes
+
 ONLY ASCII ENCODED SUPPORTED
 USE: ./caeser_decoder.py <encoded_file> <shift> <decoded_file>
 
